@@ -1,2 +1,2 @@
-# hemag-website
+# Hemag Inc - Connecting Your World to New Directions
 Creates a simple website for Hemag
